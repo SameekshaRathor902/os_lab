@@ -5,7 +5,7 @@
 - **Name:** Sameeksha Rathor
 - **Course:** B.Tech
 - **Section:** IOS
-- **Class Roll No.:** 
+- **Class Roll No.:** 51
 - **University Roll No.:** 2026345
 - **Subject:** Operating System Lab
 - **Faculty Name:** Dr. Shiddhant Thapliya
@@ -15,11 +15,11 @@
 
 ## About This Repository
 
-A structured repository documenting my lab coursework and hands-on experiments for the Operating Systems Laboratory, completed as part of the B.Tech curriculum at Graphic Era Deemed to be University.
+This repository contains my lab programs and assignments for the Operating System course in B.Tech at Graphic Era Deemed to be University.
 
-The collection focuses on practical C implementations exploring low-level system mechanics, including process creation and management, Inter-Process Communication (IPC), CPU scheduling policies, and page replacement strategies.
+Here, I have implemented various C programs covering basic OS topics such as process management, Inter-Process Communication (IPC), CPU scheduling algorithms, and page replacement methods.
 
-The primary objective is to deepen understanding of operating system internals and gain proficiency with Linux system calls through direct implementation.
+The main goal of this repository is to learn and practice how core operating system concepts work practically in Linux using C programming and system calls.
 
 ---
 
