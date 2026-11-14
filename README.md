@@ -1,6 +1,29 @@
-# Operating Systems Lab
+# Operating System Lab
 
-## 🧪 List of Experiments
+## Student Details
+
+- **Name:** Sameeksha Rathor
+- **Course:** B.Tech
+- **Section:** IOS
+- **Class Roll No.:** 
+- **University Roll No.:** 2026345
+- **Subject:** Operating System Lab
+- **Faculty Name:** Dr. Shiddhant Thapliya
+- **University:** Graphic Era Deemed to be University, Dehradun
+
+---
+
+## About This Repository
+
+This repository contains my practical work for the Operating System Laboratory course as part of my B.Tech programme at Graphic Era Deemed to be University.
+
+It includes C programs covering fundamental Operating System concepts, process management, Inter-Process Communication (IPC), CPU scheduling algorithms, and page replacement algorithms.
+
+The objective is to understand the practical implementation of Operating System concepts using C programming and Linux system calls.
+
+---
+
+## List of Experiments
 
 | S.No. | Experiment | Source Code | Status |
 | :---: | :--- | :---: | :---: |
