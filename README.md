@@ -41,3 +41,11 @@ The main goal of this repository is to learn and practice how core operating sys
 | 11 | Implementation of Priority Scheduling | [Program](Oct30/priority.c) | Complete |
 | 12 | Implementation of FIFO Page Replacement Algorithm | [Program](Oct30/fifo_page.c) | Complete |
 | 13 | Implementation of LRU Page Replacement Algorithm | [Program](Oct30/lru_page.c) | Complete |
+
+---
+
+## Acknowledgement
+
+I sincerely thank Dr. Shiddhant Thapliya for his valuable guidance and support throughout the Operating System Laboratory course.
+
+I am also grateful to the Department of Computer Science and Engineering, Graphic Era Deemed to be University, for providing the opportunity to gain practical knowledge of Operating System concepts.
