@@ -15,11 +15,11 @@
 
 ## About This Repository
 
-This repository contains my practical work for the Operating System Laboratory course as part of my B.Tech programme at Graphic Era Deemed to be University.
+A structured repository documenting my lab coursework and hands-on experiments for the Operating Systems Laboratory, completed as part of the B.Tech curriculum at Graphic Era Deemed to be University.
 
-It includes C programs covering fundamental Operating System concepts, process management, Inter-Process Communication (IPC), CPU scheduling algorithms, and page replacement algorithms.
+The collection focuses on practical C implementations exploring low-level system mechanics, including process creation and management, Inter-Process Communication (IPC), CPU scheduling policies, and page replacement strategies.
 
-The objective is to understand the practical implementation of Operating System concepts using C programming and Linux system calls.
+The primary objective is to deepen understanding of operating system internals and gain proficiency with Linux system calls through direct implementation.
 
 ---
 
